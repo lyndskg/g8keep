@@ -38,6 +38,7 @@ Basic Workflow:
 
 
 Basic I/O Details:
+
 g8keep will have a user interface (web or mobile-based) where users can input their preferences and receive personalized activity lists. The program will scrape data from online sources, process it, and create user profiles for fine-tuning with machine learning algorithms.
 
 The app will present activity recommendations to users through the interface, allowing them to explore and select activities that match their interests and fit within their schedule and budget constraints.
